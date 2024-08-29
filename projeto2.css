@@ -1,0 +1,66 @@
+.cebolinha{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+.cebolinha img{
+    width: 200px;
+}
+.nome{
+    display: inline-block;
+    margin-left: 500px;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+.sobre{
+    font-weight: bold;
+    font-size: 25px;
+}
+.coluna-1{
+
+    display: flex;
+    align-content: center;
+    align-items: center;
+
+    
+}
+.experiencias{
+    font-weight: bold;
+    font-size: 25px;
+}
+.conteiner1{
+    margin-right: 200px;
+    width: 250px;
+    
+    
+}
+.engenheiro{
+    display: inline;
+    font-weight: bold;
+    font-size: 25px;
+}
+.competencias{
+    font-size: 25px;
+    font-weight: bold;
+}
+.conteiner2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 14px;
+    
+    
+}
+
+.c, .java{
+    display: flex;
+    flex-direction: row;
+}
+.j, .ser{
+    font-size: 18px;
+}
+.conteiner3{
+    margin-right: 10px;
+    
+}
